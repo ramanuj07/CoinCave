@@ -1,0 +1,31 @@
+{
+  "name": "coincave",
+  "version": "1.0.0",
+  "description": "This project is based on Cryptocurrency platform",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramanuj07/CoinCave.git"
+  },
+  "author": "Ramanuj Jindal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramanuj07/CoinCave/issues"
+  },
+  "homepage": "https://github.com/ramanuj07/CoinCave#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "postcss": "^8.4.33",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.1"
+  }
+}
